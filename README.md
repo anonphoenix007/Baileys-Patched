@@ -47,7 +47,7 @@ To install this version, Ensure that Jimp version is ^0.22.12
 yarn add github:anonphoenix007/Baileys-Patched
 ```
 
-In your package.json, add this veraion this way
+In your package.json, add this version as
 ```ts
 "@whiskeysockets/baileys": "github:anonphoenix007/Baileys-Patched",
 ```
